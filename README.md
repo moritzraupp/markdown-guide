@@ -26,6 +26,11 @@ Markdown is a lightweight markup language used to format plain text.
 
 ---
 
+[Markdown Guide Website](https://moritzraupp.github.io/markdown-guide/) for better HTML display.
+[Markdown Guide Github](https://github.com/moritzraupp/markdown-guide) for better markdown display.
+
+---
+
 <a href="https://gist.github.com/rxaviers/7360908" target="_blank" rel="noopener noreferrer">
   😄🔗 List of github compatible markdown emoji markup 
 </a> by <a href="https://gist.github.com/rxaviers" target="_blank" rel="noopener noreferrer">Rafael Xavier de Souza</a>
